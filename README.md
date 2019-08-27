@@ -1,7 +1,7 @@
 
-                    SpringBoot创建自定义的starter 
- 
- 
+                                  SpringBoot创建自定义的starter 
+
+
  1. 创建auto项目 和 starter项目
  
  2. 修改auto项目 创建自动配置类   HelloAutoConfiguration 
